@@ -1,0 +1,25 @@
+---
+title: 'Milestone #3'
+author: "Artha Jonassaint"
+date: "9/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Milestone 3
+
+One project that I analyzed pertained to the NBA and its fine system. All in all, I thought this student did a sound job of demonstrating proficiency in themes central to the class, and they did a relatively good job of gathering data that was available to them for the purposes of this project. In regard to the high points of this student’s project, I really appreciate how intuitive the setup is for his shiny app -- it is easy to navigate and each page/tab logically transitions to the next tab. Regarding areas of improvement, I think the “Histographic Distribution of Fines” in the Raw Data section of the app could have been depicted in a way more conducive to depicting what he wanted to. I think the scaling on all the graphs could have been amending to make it easier for anyone to read; the use of scientific notation isn’t helpful to the average reader, especially when analyzing salaries. The data sets seemed a bit small; the raw data was only for the past two NBA seasons, and then the regressions showed the past 5 seasons. Perhaps the intent was to create a contemporary analysis, but showing the relationship between salary and fines over time could have been a really cool idea, especially as we think of the evolution of professional basketball. I do appreciate the simplicity of the project, and that someone like me, with little experience with statistics and R more generally, could understand what was being done and could get a lot out of it. 
+
+https://hamaadwmehal.shinyapps.io/fp_ms_6_shiny/
+
+The second project I analyzed pertained to player popularity and the NBA All-Star Game. My first reaction, and current reaction,  to this project was wow. This student did such a great job in finding a lot of data, wrangling that data, and organizing it in a way that is understandable to users and all other interested parties. The set-up  this student uses in being to pick a particular player, seeing all of that player’s statistics on the season, their percentage of the All-Star vote, and so many other variables is pretty remarkable. I found myself playing around and looking at so many different players as I explored their data because it was so easy to follow and so easy to juxtapose one player to another. I don’t love the background used as parts of the shiny app were hard to read, but I appreciate the student’s effort in giving it more than a basic aesthetic. There was so much data, but the student did an outstanding job of handling it. I can tell from the tribute to Kobe Bryant and the meticulous detail put into this project, that this student really cared about what they were doing and were adamant about doing a great job, and if I may, I think they did a spectacular job. 
+
+https://josh-mathews.shinyapps.io/nba_all_star/
+
+
+
+### My Github Repo for this Milestone:
+https://github.com/akjonassaint/Milestone-3.git
